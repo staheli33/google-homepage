@@ -14,4 +14,17 @@ input.textboxsize{
 	height:20px;
 }
 
-
+input.textboxsize:hover{
+	
+	background-color:yellow;
+}
+div.navigation{
+	
+	margin:0px 0px 0px 325px;
+	
+}
+#navbar li{
+	display:inline;
+	border-radius:10px;
+	background-color:violet;
+}
