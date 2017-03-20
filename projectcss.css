@@ -1,11 +1,17 @@
-img{
-	height:75px;
-	width:150px;
+img.resize{
+	height:100px;
+	width:200px;
 }
 
-#image{
-	display:block;
-	margin-left:40%;
-	margin-right:50%;
+div.picture{
 	
+	margin:300px 0px 0px 400px;
 }
+input.textboxsize{
+	
+	margin:0px 0px 0px 400px;
+	width:200px;
+	height:20px;
+}
+
+
